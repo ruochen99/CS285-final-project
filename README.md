@@ -1,4 +1,4 @@
-# CS285Proj
+# CS285(Deep Reinforcement Learning) Final Project
 
 Final Report: https://drive.google.com/file/d/1tRj6GvYnqylNYnEs2qWpvJGxPhD7XSPY/view?usp=sharing
 
