@@ -1,4 +1,7 @@
 # CS285Proj
+
+Final Report: https://drive.google.com/file/d/1tRj6GvYnqylNYnEs2qWpvJGxPhD7XSPY/view?usp=sharing
+
 Policy Gradient
 - To run policy gradient: python3 rl(rnnorbert)+rnn.py
 - The main algorithm is in pg.py
